@@ -1,0 +1,13 @@
+.chores {
+  color: lightseagreen;
+  font-size: 15pt;
+  background-color: orchid;
+}
+
+.chores li {
+  font-style: italic;
+}
+
+.chores h3 {
+  text-decoration: underline;
+}
